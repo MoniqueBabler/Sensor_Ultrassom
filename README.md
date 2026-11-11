@@ -6,12 +6,11 @@ Protótipo IoT desenvolvido para detectar a distância de pessoas ou objetos uti
 
 ### Montagem do circuito
 ![Montagem do circuito](./assets/foto1.jpeg)
+![Montagem do circuito](./assets/foto2.jpeg)
 
 ### Monitor Serial
-![Monitor Serial](./assets/foto2.jpeg)
+![Monitor Serial](./assets/foto3.jpeg)
 
-### API
-![API](./assets/foto3.jpeg)
 
 ## Objetivo do Desafio
 
